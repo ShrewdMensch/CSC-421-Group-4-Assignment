@@ -1,0 +1,13 @@
+﻿Build started 23-Jan-17 2:40:47 PM.
+     1>Project "C:\Users\Bolarinwa\Documents\Visual Studio 2012\Projects\CSC421_Group4\Question5\Question5.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Question5.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Question5.cpp
+         Question5.cpp
+     1>c:\users\bolarinwa\documents\visual studio 2012\projects\csc421_group4\question5\question5.cpp(12): error C2065: 'a' : undeclared identifier
+     1>Done Building Project "C:\Users\Bolarinwa\Documents\Visual Studio 2012\Projects\CSC421_Group4\Question5\Question5.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.15
